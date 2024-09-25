@@ -12,4 +12,4 @@ Web_Scraping.txt is my project_2 final data txt sheet.
 
 Word_Frequency.txt is my project_2 final data txt sheet.
 
-Web Scraping & Word Frequency is my power_point.ppt file.
+Project-2_Next-Hikes.ppt.pptx is my power_point.ppt file.
